@@ -1,0 +1,25 @@
+WEBVTT - EduPulse Sample Subtitles
+
+00:00.000 --> 00:04.500
+Welcome to this masterclass! Today we will explore modern web architecture.
+
+00:04.500 --> 00:09.800
+We'll learn how component-driven frontend architecture pairs with Express RESTful backends.
+
+00:09.800 --> 00:15.200
+Notice how the custom HTML5 video player provides responsive controls and playback speed.
+
+00:15.200 --> 00:21.000
+You can take timestamped notes on the right side and they will automatically sync to your database.
+
+00:21.000 --> 00:27.500
+The transcript panel highlights each line in real-time as the audio plays.
+
+00:27.500 --> 00:34.000
+Feel free to click any transcript line or saved note to jump the video directly to that moment.
+
+00:34.000 --> 00:41.000
+After completing the video lessons, challenge yourself with the interactive quizzes to test your knowledge!
+
+00:41.000 --> 00:50.000
+Once you finish all lessons in the course, your official completion certificate will be generated automatically.
